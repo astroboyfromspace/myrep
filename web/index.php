@@ -1,5 +1,4 @@
 <?php
-//test
 define('YII_DEBUG', true);
 // Including the Yii framework itself (1)
 require(__DIR__ . '/../vendor/yiisoft/yii2/Yii.php');
